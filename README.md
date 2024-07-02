@@ -1,6 +1,6 @@
-# JS Santa Application:  
+# JS Santa Application based on react:  
 
-This is basic application based on React Frontend + NodeJS backend server with express to achieve this.
+This is a basic application based on React Frontend + NodeJS backend server with express to achieve this.
 
 ## Running the code. 
 
